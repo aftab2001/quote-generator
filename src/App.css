@@ -1,0 +1,49 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+main{
+  margin:10vh auto;
+  border-radius: 2vw;
+  width:600px;
+  background-color: #fff;
+  color: #000;
+}
+
+#quote-box{
+  /* display:flex; */
+  padding:18px 10px;
+  height: 30vh;
+  text-align: center;
+}
+#text{
+  font-size: 1.2rem;
+}
+#quote-box div{
+  padding-top: 5vh;
+}
+#author{
+  margin-left:80%;
+  font-style:italic;
+  font-weight:200;
+}
+button{
+  
+  border:none;
+  padding:10px;
+  border-radius:10px;
+  margin-left:60%;
+}
+#tweet-quote{
+
+  border:none;
+  padding:10px;
+  border-radius:10px;
+  margin-left: 10%;
+}
+a{
+
+  text-decoration:none;
+}
+.links{
+  display:flex;
+}
